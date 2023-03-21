@@ -2,7 +2,7 @@
 
 ## Contributors: Logan Sankey ('20), Sabrina Barton ('24), Taylor Hickey ('23), Nate Dominy (Professor of Anthropology),  ? (PI)
 
-![Sample title slide for a DIFUSE module.](repository-assets/DIFUSE-sample.png)
+![Sample title slide for a DIFUSE module.](repository-assets/DIFUSE-ANTH-20.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
