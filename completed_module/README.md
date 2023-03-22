@@ -24,6 +24,6 @@ Use this page to get an idea of the timeline of the module, what components are 
 
 | Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
 |------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Day 1 | Out of class      | Part 1: Data Collection using annotated videos of a basketball game  | Data collection methods |[Problem Set 1](completed_module/components/assignment1/README.md) |
-| Day 2 | Out of class      | Part 2:  | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/README.md) |
+| Day 1 | Out of class      | Part 1: Data Collection using annotated videos of a basketball game  | Data collection methods |[Problem Set 1](components/assignment1/README.md) |
+| Day 2 | Out of class      | Part 2:  | 	Course content |[Problem Set 2](/components/assignment2/README.md) |
 | Day 3 | In class          | Class discussion of results | | |
