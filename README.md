@@ -8,25 +8,35 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-## Module Description 
-Primate Evolution and Ecology (ANTH 20) is an introductory course in the Anthropology department which provides a broad overview of primate behavioral ecology, with a particular focus on the interactions that exist between primates and their environments and between primates themselves. These vital interactions are viewed through the lens of natural and sexual selection.  In field work with primates, there are two main methods of data collection _focal bout sampling_ and _instantaneous scan sampling_.  The purpose of the module is to have students understand the respective strengths and weaknesses of these methods.  This module is a medium length module (3 days), uses Excel as its main tool and covers data science areas of acquiring data, analyzing data, and drawing conclusions. 
-
-
-
-![Medium length module for an introductory course using excel and covering acquiring data, analyzing data, and drawing conclusions.](repository-assets/ANTH-20-Badge.png "Medium length module for an introductory course using excel and covering acquiring data, analyzing data, and drawing conclusions.")
-
-(<a href="https://github.com/difuse-dartmouth/.github/blob/8f8f6efff8943871e1fcaa3b6f2daf1531206df6/profile/howto.md">What does this badge mean?</a>)
-
-## [Click here for module materials](completed_module/README.md)
 
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/data-migration-template/commits/main/).
 
-## Folder Structure
+## Module Objective
 
-The folder *completed_module* contains all of the module components.  
+The primary objective for this module is to have students understand the respective strengths and weaknesses of the two main data collection methods used in research on primate behavior, focal bout sampling and instantaneous scan sampling.
 
-The *components* subfolder contains ...
+## Learning Objectives
+1.	Collect data using both methods
+2. Define their own ethnogram and apply it in data collection
+3. Analyze visualizations of thedata in order to enrich class discussion
 
-The *data* subfolder contains ...
+## Module Description 
+Anthropologists interpret interactions that exist between primates and their environments and between primates themselves through the lens of natural and sexual selection to draw conclusions about primate behacior and sociality.  In field work with primates, there are two main methods of data collection _focal bout sampling_ and _instantaneous scan sampling_.  The purpose of the module is to have students understand the respective strengths and weaknesses of these methods.   
+### Data
+Students collect data by coding labeled footage from a basketball game using the two sampling methods.
 
-The *logistics* subfolder contains ...
+Platform
+Students use Excel to process and analyze the data.
+
+## Schedule and Links
+
+Use this page to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
+
+| Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
+|------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
+| Day 1 | Out of class      | Part 1: Data Collection using annotated videos of a basketball game  | Data collection methods |[Problem Set 1](completed_module/components/assignment1/README.md) |
+| Day 2 | Out of class      | Part 2:  | 	Course content |[Problem Set 2](completed_module/components/assignment2/README.md) |
+| Day 3 | In class          | Class discussion of results | | |
+
+## Course Information
+[Primate Evolution and Ecology](http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-20) is an introductory course in the Anthropology department at Dartmouth College which provides a broad overview of primate behavioral ecology.  As this is an introductory course, students are not expected to have any particular background upon entering the course.
